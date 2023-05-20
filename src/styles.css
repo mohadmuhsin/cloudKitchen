@@ -5,6 +5,11 @@
     margin: 0%;
 }
 
+
+:root{
+    --primary-color:#3fc060;
+    --secondary-color:#162328;
+}
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
